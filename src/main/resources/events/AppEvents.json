@@ -1,0 +1,229 @@
+{
+  "handlers": [
+    {
+      "id": {
+        "databaseName": "0",
+        "groupName": "1",
+        "table": false
+      },
+      "name": "de.abas.gruetzmacher.CustomerEventHandler",
+      "globalScreenEvents": {
+        "events": "SCREEN_ENTER,SCREEN_END"
+      },
+      "globalRowEvents": {
+        "events": ""
+      },
+      "headerFieldEvents": {},
+      "tableFieldEvents": {}
+    },
+    {
+      "id": {
+        "databaseName": "0",
+        "groupName": "2",
+        "table": false
+      },
+      "name": "de.abas.gruetzmacher.CustomerContactEventHandler",
+      "globalScreenEvents": {
+        "events": "SCREEN_VALIDATION"
+      },
+      "globalRowEvents": {
+        "events": ""
+      },
+      "headerFieldEvents": {},
+      "tableFieldEvents": {}
+    },
+    {
+      "id": {
+        "databaseName": "2",
+        "groupName": "1",
+        "table": true
+      },
+      "name": "de.abas.gruetzmacher.ProductEventHandler",
+      "globalScreenEvents": {
+        "events": "SCREEN_VALIDATION,SCREEN_ENTER"
+      },
+      "globalRowEvents": {
+        "events": ""
+      },
+      "headerFieldEvents": {
+        "fields": [
+          {
+            "name": "yzhmzgylock",
+            "events": "FIELD_EXIT"
+          }
+        ]
+      },
+      "tableFieldEvents": {}
+    },
+    {
+      "id": {
+        "databaseName": "3",
+        "groupName": "23",
+        "table": true
+      },
+      "name": "de.abas.gruetzmacher.PackingSlipEventHandler",
+      "globalScreenEvents": {
+        "events": "SCREEN_VALIDATION"
+      },
+      "globalRowEvents": {
+        "events": ""
+      },
+      "headerFieldEvents": {},
+      "tableFieldEvents": {
+        "fields": [
+          {
+            "name": "product",
+            "events": "FIELD_FILL"
+          }
+        ]
+      }
+    },
+    {
+      "id": {
+        "databaseName": "119",
+        "groupName": "1",
+        "table": true
+      },
+      "name": "de.abas.gruetzmacher.ShippingPlanningEventHandler",
+      "globalScreenEvents": {
+        "events": ""
+      },
+      "globalRowEvents": {
+        "events": ""
+      },
+      "headerFieldEvents": {
+        "fields": [
+          {
+            "name": "releaseProcSugg",
+            "events": "BUTTON_BEFORE"
+          }
+        ]
+      },
+      "tableFieldEvents": {}
+    },
+    {
+      "id": {
+        "databaseName": "4",
+        "groupName": "22",
+        "table": true
+      },
+      "name": "de.abas.gruetzmacher.PurchaseOrderEventHandler",
+      "globalScreenEvents": {
+        "events": "SCREEN_VALIDATION"
+      },
+      "globalRowEvents": {
+        "events": ""
+      },
+      "headerFieldEvents": {},
+      "tableFieldEvents": {
+        "fields": [
+          {
+            "name": "product",
+            "events": "FIELD_EXIT"
+          }
+        ]
+      }
+    },
+    {
+      "id": {
+        "databaseName": "4",
+        "groupName": "7",
+        "table": true
+      },
+      "name": "de.abas.gruetzmacher.PurchaseOrderSuggestionsEventHandler",
+      "globalScreenEvents": {
+        "events": ""
+      },
+      "globalRowEvents": {
+        "events": ""
+      },
+      "headerFieldEvents": {
+        "fields": [
+          {
+            "name": "loadTab",
+            "events": "BUTTON_AFTER"
+          }
+        ]
+      },
+      "tableFieldEvents": {}
+    },
+    {
+      "id": {
+        "databaseName": "3",
+        "groupName": "22",
+        "table": true
+      },
+      "name": "de.abas.gruetzmacher.SalesOrderEventHandler",
+      "globalScreenEvents": {
+        "events": "SCREEN_VALIDATION"
+      },
+      "globalRowEvents": {
+        "events": ""
+      },
+      "headerFieldEvents": {},
+      "tableFieldEvents": {}
+    },
+    {
+      "id": {
+        "databaseName": "3",
+        "groupName": "20",
+        "table": true
+      },
+      "name": "de.abas.gruetzmacher.BlanketOrderEventHandler",
+      "globalScreenEvents": {
+        "events": "SCREEN_ENTER"
+      },
+      "globalRowEvents": {
+        "events": ""
+      },
+      "headerFieldEvents": {},
+      "tableFieldEvents": {}
+    },
+    {
+      "id": {
+        "databaseName": "4",
+        "groupName": "24",
+        "table": true
+      },
+      "name": "de.abas.gruetzmacher.PurchasingInvoiceEventHandler",
+      "globalScreenEvents": {
+        "events": ""
+      },
+      "globalRowEvents": {
+        "events": ""
+      },
+      "headerFieldEvents": {
+        "fields": [
+          {
+            "name": "yzhmzggetOpenItems",
+            "events": "BUTTON_BEFORE,BUTTON_AFTER"
+          }
+        ]
+      },
+      "tableFieldEvents": {}
+    },
+    {
+      "id": {
+        "databaseName": "4",
+        "groupName": "23",
+        "table": true
+      },
+      "name": "de.abas.gruetzmacher.PurchasingPackingSlipEventHandler",
+      "globalScreenEvents": {
+        "events": ""
+      },
+      "globalRowEvents": {
+        "events": ""
+      },
+      "headerFieldEvents": {
+        "fields": [
+          {
+            "name": "yzhmzggetOpenItems",
+            "events": "BUTTON_AFTER"
+          }
+        ]
+      },
+      "tableFieldEvents": {}
+    }
+  ]
+}

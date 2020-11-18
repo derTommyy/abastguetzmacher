@@ -1,0 +1,17 @@
+database Einkauf {
+	number 4
+	classname Purchasing
+	structure Purchasing{
+	   groupNumber 1
+	   head{
+	       field BU3 getOpenItems{
+	       label ""
+	       heading ""
+	       description "Offene Positionen des Lieferanten einfügen"
+	       screen EDITABLE
+	       showPriority A
+	       changePriority A
+	       }
+	   }
+	}
+}

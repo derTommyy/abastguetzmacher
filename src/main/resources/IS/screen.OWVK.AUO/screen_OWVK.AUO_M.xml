@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE frame SYSTEM "urn:x-abas.de:abasscreens-1.00.dtd">
+
+<frame frameType="M" msgId="b8882fb2f679afa0fae7dc7a4333a4bf">
+ <layout.grid>
+  <metainfo axis="column" grid="0" stretch="zoom" />
+  <metainfo axis="row" grid="0" stretch="zoom" />
+  <cell alignX="fill" alignY="fill" gridX="0" gridY="0">
+   <layout.split axis="row">
+    <pane.split>
+     <layout.notebook>
+      <pane.notebook msgId="c750f9f8d5deaecc9162be3abdb7c95f">
+       <layout.grid>
+        <metainfo axis="column" grid="3" indent="large" />
+        <cell gridX="0" gridY="0">
+         <label msgId="3ef792fc9ff06c96264714bfd5d6adb2" />
+        </cell>
+        <cell gridX="1" gridY="0" sizeX="2">
+         <erpfield s3Name="0:belegvon" />
+         <label msgId="336d5ebc5436534e61d16e63ddfca327" />
+         <erpfield s3Name="0:belegbis" />
+        </cell>
+        <cell gridX="3" gridY="0">
+         <label msgId="9038ee9d312215a588324d1c8adc0f70" />
+         <erpfield s3Name="0:inkllsre" />
+        </cell>
+        <cell gridX="0" gridY="1">
+         <label msgId="40f22d89-5288-4dbd-a0f7-bc3959d7a4b5" />
+        </cell>
+        <cell gridX="1" gridY="1" sizeX="2">
+         <erpfield s3Name="0:vorgartaz" />
+        </cell>
+        <cell gridX="3" gridY="1" />
+        <cell gridX="0" gridY="2">
+         <label msgId="7c56a31c25c8b14aed29fdd0e0db5dcb" />
+        </cell>
+        <cell alignX="fill" gridX="1" gridY="2">
+         <erpfield s3Name="0:kkuli" />
+        </cell>
+        <cell alignX="fill" gridX="2" gridY="2" sizeX="2">
+         <erpfield access="readOnly" s3Name="0:kkulisucherw" />
+        </cell>
+        <cell gridX="0" gridY="3">
+         <label msgId="5827b6d1564c20e1cce55be215132b0f" />
+        </cell>
+        <cell alignX="fill" gridX="1" gridY="3">
+         <erpfield s3Name="0:kkuli2" />
+        </cell>
+        <cell alignX="fill" gridX="2" gridY="3" sizeX="2">
+         <erpfield access="readOnly" s3Name="0:kkuli2sucherw" />
+        </cell>
+        <cell gridX="0" gridY="4">
+         <label msgId="4a4897eb-1fb4-42b7-abb7-253f0c65355a" />
+        </cell>
+        <cell alignX="fill" gridX="1" gridY="4">
+         <erpfield dimX="9" s3Name="0:artikel" />
+        </cell>
+        <cell alignX="fill" gridX="2" gridY="4" sizeX="2">
+         <erpfield access="readOnly" s3Name="0:artikelsucherw" />
+        </cell>
+        <cell gridX="0" gridY="5">
+         <label msgId="46c349343e9f7f65481c2ece1d66474c" />
+        </cell>
+        <cell alignX="fill" gridX="1" gridY="5">
+         <erpfield s3Name="0:kvertret" />
+        </cell>
+        <cell alignX="fill" gridX="2" gridY="5" sizeX="2">
+         <erpfield access="readOnly" s3Name="0:kvertretsucherw" />
+        </cell>
+        <cell gridX="0" gridY="6">
+         <label msgId="8430a4530716581f889bd714377fc5b2" />
+        </cell>
+        <cell alignX="fill" gridX="1" gridY="6">
+         <erpfield s3Name="0:kzeich" />
+        </cell>
+        <cell gridX="2" gridY="6" />
+        <cell gridX="3" gridY="6" />
+        <cell gridX="0" gridY="7">
+         <label msgId="2e966479-1737-4ef3-bfdf-307092fe6f39" scope="CONF_PROJ" />
+        </cell>
+        <cell alignX="fill" gridX="1" gridY="7">
+         <erpfield dimX="9" s3Name="0:projekt" scope="CONF_PROJ" />
+        </cell>
+        <cell alignX="fill" gridX="2" gridY="7" sizeX="2">
+         <erpfield access="readOnly" s3Name="0:projektsucherw" scope="CONF_PROJ" />
+        </cell>
+       </layout.grid>
+      </pane.notebook>
+      <pane.notebook msgId="2aa17931-7fec-4d71-9651-37c1077a39e4">
+       <layout.grid>
+        <cell gridX="0" gridY="0">
+         <erpfield dimX="0" msgId="ad9d7838-11f7-4a64-99b2-8a75eda3e7f6" s3Name="0:bselect" />
+        </cell>
+        <cell gridX="1" gridY="0">
+         <erpfield access="readOnly" msgId="bfa6fdbe-1f8c-4705-bbf5-ea9308dcdc0f" s3Name="0:selektion" />
+        </cell>
+       </layout.grid>
+      </pane.notebook>
+     </layout.notebook>
+    </pane.split>
+    <pane.split>
+     <layout.grid>
+      <metainfo axis="column" grid="0" stretch="zoom" />
+      <metainfo axis="row" grid="1" stretch="zoom" />
+      <cell alignX="fill" alignY="fill" gridX="0" gridY="0">
+       <layout.grid>
+        <metainfo axis="column" grid="2" indent="large" />
+        <cell gridX="0" gridY="0">
+         <label msgId="fd31df916f2f07cd305f0853b37b38ac" />
+        </cell>
+        <cell gridX="1" gridY="0">
+         <erpfield s3Name="0:wvdat" />
+        </cell>
+        <cell gridX="2" gridY="0">
+         <label msgId="df33caf0-e70c-4d11-952a-a1119cc55f90" />
+        </cell>
+        <cell gridX="3" gridY="0">
+         <erpfield s3Name="0:bdisponiert" />
+        </cell>
+        <cell gridX="0" gridY="1">
+         <label msgId="277cb67520e0f1c515947a1c3e0a417d" />
+        </cell>
+        <cell gridX="1" gridY="1">
+         <erpfield access="readOnly" s3Name="0:summe" />
+         <erpfield s3Name="0:auswaehr" />
+        </cell>
+        <cell gridX="2" gridY="1" />
+        <cell gridX="3" gridY="1" />
+        <cell gridX="0" gridY="2">
+         <label msgId="c7ccb4c69bd6941aea48fec3603e3309" />
+        </cell>
+        <cell gridX="1" gridY="2">
+         <erpfield access="readOnly" s3Name="0:summeohne" />
+         <erpfield s3Name="0:auswaehr" />
+        </cell>
+        <cell gridX="2" gridY="2" />
+        <cell gridX="3" gridY="2" />
+       </layout.grid>
+      </cell>
+      <cell alignX="fill" alignY="fill" gridX="0" gridY="1">
+       <table>
+        <erpfield access="readOnly" dimX="0" msgId="cf32d681-d5c3-4f57-81c2-cd460abdd81a" s3Name="1:kopf" />
+        <erpfield access="readOnly" dimX="0" msgId="129e077d-feb3-48b5-8aee-d218b6f1618d" s3Name="1:tkuli" />
+        <erpfield access="readOnly" dimX="0" msgId="a62080ae-af09-4876-882e-3c0f2e500bf6" s3Name="1:tkuliname" />
+        <erpfield access="readOnly" dimX="0" msgId="73e15bb7-a87e-4c02-8865-cd653bea5fd6" s3Name="1:tkuli2" />
+        <erpfield access="readOnly" dimX="0" msgId="0eb07bac-b8f0-4cfa-842a-0d04e21aca3a" s3Name="1:tvertret" />
+        <erpfield access="readOnly" dimX="0" msgId="4a31f77e-5844-4f3a-bcef-36fe7c6dd97a" s3Name="1:tvertretname" />
+        <erpfield access="readOnly" dimX="0" msgId="55533a0a-920a-4938-a364-b1290b1a8dd6" s3Name="1:pnum" />
+        <erpfield access="readOnly" dimX="0" msgId="6b2f21b5-dfcf-4754-97f5-8c6c987fc7d3" s3Name="1:tprojekt" scope="CONF_PROJ" />
+        <erpfield access="readOnly" dimX="0" msgId="b2b83ea6-90cf-4902-98f1-20f98cd6ea8d" s3Name="1:art" />
+        <erpfield access="readOnly" dimX="0" msgId="a2ae7674-21a8-4caf-9410-5126ee84c7e4" s3Name="1:tname" />
+        <erpfield access="readOnly" dimX="0" msgId="dcaf1ae1-220c-4c4e-a42b-41adf3cd9402" s3Name="1:mge" />
+        <erpfield access="readOnly" dimX="0" msgId="7e7b6f8c-f20a-4001-bf56-0a785b527495" s3Name="1:limge" />
+        <erpfield access="readOnly" dimX="0" msgId="b87334ac-cda1-4049-b333-e9d11bb302fb" s3Name="1:remge" />
+        <erpfield access="readOnly" dimX="0" msgId="9f3588b1-09d9-42d1-917e-6e5f3b3a7d01" s3Name="1:proz" />
+        <erpfield access="readOnly" dimX="0" msgId="415adec5-9cf1-43d0-a80c-567001ae1eb8" s3Name="1:pwert" />
+        <erpfield access="readOnly" dimX="0" msgId="f9b467c5-e166-4b92-b69e-37364fb2d3bd" s3Name="1:nwert" />
+        <erpfield access="readOnly" dimX="0" msgId="03a38f51-9bc8-44a8-9b50-8826495c89a4" s3Name="1:einplan" />
+        <erpfield access="readOnly" dimX="0" msgId="52404605-39b1-4e60-908a-9a323adc5e4e" s3Name="1:disponiert" scope="FOP_DISPO" />
+        <erpfield access="readOnly" dimX="0" msgId="a095f817-5b5c-4cf5-96b0-b5a8b8612dbb" s3Name="1:tterm" />
+        <erpfield access="readOnly" dimX="0" msgId="c7139580-95a1-4b09-b2fe-3d0d059e670e" s3Name="1:twvdat" />
+        <erpfield access="readOnly" dimX="0" msgId="4ff00b31-7257-49fc-9849-784db78884c9" s3Name="1:tzeich" />
+       </table>
+      </cell>
+     </layout.grid>
+    </pane.split>
+   </layout.split>
+  </cell>
+ </layout.grid>
+</frame>
+

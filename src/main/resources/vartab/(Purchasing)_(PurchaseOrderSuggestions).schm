@@ -1,0 +1,4 @@
+database Einkauf {
+	number 4
+	classname Purchasing
+}

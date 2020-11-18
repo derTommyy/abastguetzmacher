@@ -1,0 +1,4 @@
+database Verkauf {
+	number 3
+	classname Sales
+}

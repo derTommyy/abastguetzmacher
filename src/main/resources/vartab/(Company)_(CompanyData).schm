@@ -1,0 +1,4 @@
+database master Firma {
+	number 12
+	classname Company
+}

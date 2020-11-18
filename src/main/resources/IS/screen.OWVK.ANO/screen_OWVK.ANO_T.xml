@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE frame SYSTEM "urn:x-abas.de:abasscreens-1.00.dtd">
+
+<frame frameType="T">
+ <layout.grid>
+  <metainfo axis="column" grid="0" stretch="zoom" />
+  <metainfo axis="row" grid="0" stretch="zoom" />
+  <cell alignX="fill" alignY="fill" gridX="0" gridY="0">
+   <layout.grid>
+    <cell gridX="0" gridY="0">
+     <label msgId="6c3d6bc6-d859-4be3-a185-46b7b8101dc6" />
+    </cell>
+    <cell alignX="fill" gridX="1" gridY="0">
+     <erpfield access="readOnly" s3Name="1:kopf" />
+    </cell>
+    <cell gridX="2" gridY="0" />
+    <cell gridX="3" gridY="0" />
+    <cell gridX="4" gridY="0" />
+    <cell gridX="0" gridY="1">
+     <label msgId="cc205094-d0ac-4295-8107-e1af677fb366" />
+    </cell>
+    <cell alignX="fill" gridX="1" gridY="1">
+     <erpfield access="readOnly" s3Name="1:tkuli" />
+    </cell>
+    <cell alignX="fill" gridX="2" gridY="1" sizeX="3">
+     <erpfield access="readOnly" s3Name="1:tkuliname" />
+    </cell>
+    <cell gridX="0" gridY="2">
+     <label msgId="f69ce49b-cccd-47c8-aa29-07d382ce6f45" />
+    </cell>
+    <cell alignX="fill" gridX="1" gridY="2">
+     <erpfield access="readOnly" s3Name="1:tkuli2" />
+    </cell>
+    <cell alignX="fill" gridX="2" gridY="2" sizeX="3">
+     <erpfield access="readOnly" s3Name="1:tkuliname2" />
+    </cell>
+    <cell gridX="0" gridY="3">
+     <label msgId="3fe135ff-312f-41ba-bb2a-c4cf62656aba" />
+    </cell>
+    <cell alignX="fill" gridX="1" gridY="3">
+     <erpfield access="readOnly" s3Name="1:tvertret" />
+    </cell>
+    <cell alignX="fill" gridX="2" gridY="3" sizeX="3">
+     <erpfield access="readOnly" s3Name="1:tvertretname" />
+    </cell>
+    <cell gridX="0" gridY="4">
+     <label msgId="8c66f816-522f-4266-8017-b84b5f9f3735" />
+    </cell>
+    <cell alignX="fill" gridX="1" gridY="4">
+     <erpfield access="readOnly" s3Name="1:vom" />
+    </cell>
+    <cell gridX="2" gridY="4" />
+    <cell gridX="3" gridY="4" />
+    <cell gridX="4" gridY="4" />
+    <cell gridX="0" gridY="5">
+     <label msgId="1610d463-df23-45cf-91e4-18ee5f06791c" />
+    </cell>
+    <cell alignX="fill" gridX="1" gridY="5">
+     <erpfield access="readOnly" s3Name="1:twvdat" />
+    </cell>
+    <cell gridX="2" gridY="5" />
+    <cell gridX="3" gridY="5" />
+    <cell gridX="4" gridY="5" />
+    <cell gridX="0" gridY="6">
+     <label msgId="71144b92-9b28-4667-bc27-0230af22af68" />
+    </cell>
+    <cell alignX="fill" gridX="1" gridY="6">
+     <erpfield access="readOnly" s3Name="1:pnum" />
+    </cell>
+    <cell gridX="2" gridY="6" sizeX="3">
+     <erpfield access="readOnly" msgId="6ff8de7f-08bf-44d9-9dc1-f66f256893f0" s3Name="1:alternativpos" />
+    </cell>
+    <cell gridX="0" gridY="7">
+     <label msgId="931a5431-7528-4502-ab6c-e91dd361c8e2" scope="CONF_PROJ" />
+    </cell>
+    <cell alignX="fill" gridX="1" gridY="7" sizeX="3">
+     <erpfield access="readOnly" s3Name="1:tprojekt" scope="CONF_PROJ" />
+    </cell>
+    <cell alignX="fill" gridX="4" gridY="7">
+     <erpfield access="readOnly" s3Name="1:tprojektsucherw" scope="CONF_PROJ" />
+    </cell>
+    <cell gridX="0" gridY="8">
+     <label msgId="5328bebf-b005-49ca-86d9-febb49265a37" />
+    </cell>
+    <cell alignX="fill" gridX="1" gridY="8" sizeX="3">
+     <erpfield access="readOnly" s3Name="1:art" />
+    </cell>
+    <cell alignX="fill" gridX="4" gridY="8">
+     <erpfield access="readOnly" s3Name="1:tname" />
+    </cell>
+    <cell gridX="0" gridY="9">
+     <label msgId="f4980c0d-2ad7-4aa2-913f-a1a6fb42e7a9" />
+    </cell>
+    <cell alignX="fill" gridX="1" gridY="9">
+     <erpfield access="readOnly" s3Name="1:mge" />
+    </cell>
+    <cell alignX="fill" gridX="2" gridY="9">
+     <erpfield access="readOnly" s3Name="1:vhe" />
+    </cell>
+    <cell gridX="3" gridY="9" />
+    <cell gridX="4" gridY="9" />
+    <cell gridX="0" gridY="10">
+     <label msgId="6e7a4504-de9f-4023-bb82-7945f74088b0" />
+    </cell>
+    <cell alignX="fill" gridX="1" gridY="10">
+     <erpfield access="readOnly" s3Name="1:lgruppe" />
+    </cell>
+    <cell alignX="fill" gridX="2" gridY="10" sizeX="3">
+     <erpfield access="readOnly" s3Name="1:lgruppesucherw" />
+    </cell>
+    <cell gridX="0" gridY="11">
+     <label msgId="2d44e520-c7ba-4414-9e54-782981b9957f" />
+    </cell>
+    <cell alignX="fill" gridX="1" gridY="11" sizeX="2">
+     <erpfield access="readOnly" s3Name="1:preis" />
+    </cell>
+    <cell alignX="fill" gridX="3" gridY="11">
+     <erpfield access="readOnly" s3Name="1:land" />
+    </cell>
+    <cell gridX="4" gridY="11">
+     <label msgId="16922251-9113-4278-a80c-6c71de9fe220" />
+     <erpfield access="readOnly" s3Name="1:vpe" />
+    </cell>
+    <cell gridX="0" gridY="12">
+     <label msgId="c70b841f-93b6-4e1c-bc30-053d70d470dc" />
+    </cell>
+    <cell alignX="fill" gridX="1" gridY="12">
+     <erpfield access="readOnly" s3Name="1:proz" />
+    </cell>
+    <cell gridX="2" gridY="12">
+     <label msgId="9a91aa1c-b42d-4d28-9785-3929bcda9a22" />
+    </cell>
+    <cell gridX="3" gridY="12" />
+    <cell gridX="4" gridY="12" />
+    <cell gridX="0" gridY="13">
+     <label msgId="23fc5672-fbeb-4acd-9ab9-e577035573c2" />
+    </cell>
+    <cell alignX="fill" gridX="1" gridY="13" sizeX="2">
+     <erpfield access="readOnly" s3Name="1:nwert" />
+    </cell>
+    <cell alignX="fill" gridX="3" gridY="13">
+     <erpfield access="readOnly" s3Name="1:tauswaeh" />
+    </cell>
+    <cell gridX="4" gridY="13" />
+    <cell gridX="0" gridY="14">
+     <label msgId="0d5d79ab-4a52-4a3a-bc96-7501659ed2ff" />
+    </cell>
+    <cell alignX="fill" gridX="1" gridY="14" sizeX="2">
+     <erpfield access="readOnly" s3Name="1:pwert" />
+    </cell>
+    <cell alignX="fill" gridX="3" gridY="14">
+     <erpfield access="readOnly" s3Name="1:tauswaeh" />
+    </cell>
+    <cell gridX="4" gridY="14" />
+    <cell gridX="0" gridY="15">
+     <label msgId="725bd2e0-03ac-4f72-83f7-f8dc3b139d2c" />
+    </cell>
+    <cell alignX="fill" gridX="1" gridY="15">
+     <erpfield access="readOnly" s3Name="1:tterm" />
+    </cell>
+    <cell gridX="2" gridY="15" />
+    <cell gridX="3" gridY="15" />
+    <cell gridX="4" gridY="15" />
+    <cell gridX="0" gridY="16">
+     <label msgId="8d9700e2-9e54-4b0f-9350-0b3e127c1670" />
+    </cell>
+    <cell alignX="fill" gridX="1" gridY="16" sizeX="2">
+     <erpfield access="readOnly" s3Name="1:tzeich" />
+    </cell>
+    <cell gridX="3" gridY="16" />
+    <cell gridX="4" gridY="16" />
+   </layout.grid>
+  </cell>
+ </layout.grid>
+</frame>
+

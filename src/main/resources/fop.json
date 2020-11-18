@@ -1,0 +1,145 @@
+[
+    {
+        "databaseName": "(Customer)",
+        "groupName": "(Customer)",
+        "editorMode": "*",
+        "field": "-",
+        "key": "*",
+        "headOrTable": "-",
+        "event": "maskein",
+        "isContinue": "[C]",
+        "handler": "java:de.abas.gruetzmacher.CustomerEventHandler@zhmzg"
+    },
+    {
+        "databaseName": "(Customer)",
+        "groupName": "(Customer)",
+        "editorMode": "*",
+        "field": "-",
+        "key": "*",
+        "headOrTable": "-",
+        "event": "maskende",
+        "isContinue": "[C]",
+        "handler": "java:de.abas.gruetzmacher.CustomerEventHandler@zhmzg"
+    },
+    {
+        "databaseName": "(Customer)",
+        "groupName": "(CustomerContact)",
+        "editorMode": "*",
+        "field": "-",
+        "key": "*",
+        "headOrTable": "-",
+        "event": "maskpruef",
+        "isContinue": "[C]",
+        "handler": "java:de.abas.gruetzmacher.CustomerContactEventHandler@zhmzg"
+    },
+    {
+        "databaseName": "(Part)",
+        "groupName": "(Product)",
+        "editorMode": "*",
+        "field": "-",
+        "key": "*",
+        "headOrTable": "-",
+        "event": "maskpruef",
+        "isContinue": "[C]",
+        "handler": "java:de.abas.gruetzmacher.ProductEventHandler@zhmzg"
+    },
+    {
+        "databaseName": "(Part)",
+        "groupName": "(Product)",
+        "editorMode": "*",
+        "field": "-",
+        "key": "*",
+        "headOrTable": "-",
+        "event": "maskein",
+        "isContinue": "[C]",
+        "handler": "java:de.abas.gruetzmacher.ProductEventHandler@zhmzg"
+    },
+    {
+        "databaseName": "(Part)",
+        "groupName": "(Product)",
+        "editorMode": "*",
+        "field": "yzhmzgylock",
+        "key": "*",
+        "headOrTable": "K",
+        "event": "feldaus",
+        "isContinue": "[C]",
+        "handler": "java:de.abas.gruetzmacher.ProductEventHandler@zhmzg"
+    },
+    {
+        "databaseName": "(Sales)",
+        "groupName": "(PackingSlip)",
+        "editorMode": "*",
+        "field": "-",
+        "key": "*",
+        "headOrTable": "-",
+        "event": "maskpruef",
+        "isContinue": "[C]",
+        "handler": "java:de.abas.gruetzmacher.PackingSlipEventHandler@zhmzg"
+    },
+    {
+        "databaseName": "(Sales)",
+        "groupName": "(PackingSlip)",
+        "editorMode": "*",
+        "field": "artikel",
+        "key": "*",
+        "headOrTable": "T",
+        "event": "feldfuell",
+        "isContinue": "[C]",
+        "handler": "java:de.abas.gruetzmacher.PackingSlipEventHandler@zhmzg"
+    },
+    {
+        "databaseName": "(ShippingPlanning)",
+        "groupName": "(ShippingPlanning)",
+        "editorMode": "*",
+        "field": "freig",
+        "key": "*",
+        "headOrTable": "K",
+        "event": "buttonvor",
+        "isContinue": "[C]",
+        "handler": "java:de.abas.gruetzmacher.ShippingPlanningEventHandler@zhmzg"
+    },
+    {
+        "databaseName": "(Purchasing)",
+        "groupName": "(PurchaseOrder)",
+        "editorMode": "*",
+        "field": "-",
+        "key": "*",
+        "headOrTable": "-",
+        "event": "maskpruef",
+        "isContinue": "[C]",
+        "handler": "java:de.abas.gruetzmacher.PurchaseOrderEventHandler@zhmzg"
+    },
+    {
+        "databaseName": "(Purchasing)",
+        "groupName": "(PurchaseOrder)",
+        "editorMode": "*",
+        "field": "artikel",
+        "key": "*",
+        "headOrTable": "T",
+        "event": "feldaus",
+        "isContinue": "[C]",
+        "handler": "java:de.abas.gruetzmacher.PurchaseOrderEventHandler@zhmzg"
+    },
+    {
+        "databaseName": "(Purchasing)",
+        "groupName": "(PurchaseOrderSuggestions)",
+        "editorMode": "*",
+        "field": "ladetab",
+        "key": "*",
+        "headOrTable": "K",
+        "event": "buttonnach",
+        "isContinue": "[C]",
+        "handler": "java:de.abas.gruetzmacher.PurchaseOrderSuggestionsEventHandler@zhmzg"
+    },
+    {
+        "databaseName": "(Sales)",
+        "groupName": "(SalesOrder)",
+        "editorMode": "*",
+        "field": "-",
+        "key": "*",
+        "headOrTable": "-",
+        "event": "maskpruef",
+        "isContinue": "[C]",
+        "handler": "java:de.abas.gruetzmacher.SalesOrderEventHandler@zhmzg"
+    }
+]

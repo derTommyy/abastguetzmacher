@@ -1,0 +1,17 @@
+:docinfo:
+= abasTGruetzmach
+Documentation
+:nofooter:
+
+This document describes the abasTGruetzmach app.
+
+include::subpage.adoc[]
+
+include::additionalpage.adoc[]
+
+== About
+
+abasTGruetzmach +
+(C) Your Company
+
+https://your-website.com/

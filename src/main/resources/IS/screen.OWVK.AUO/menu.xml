@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE popups SYSTEM "urn:x-abas.de:abasmenu.dtd">
+
+<popups>
+ <popup id="menuTable">
+  <menuitem msgId="auo_vk_mtable_bfolge" s3Name="1:bfolge" />
+ </popup>
+ <popup id="menuExecute">
+  <menuitem msgId="6dd98605a94b43cb4cf57116d88fba05.1" s3Name="0:bselect" view="noToolbar" />
+ </popup>
+</popups>
+

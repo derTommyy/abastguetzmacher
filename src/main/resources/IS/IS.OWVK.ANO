@@ -1,0 +1,170 @@
+V#22
+K#0#ANO#Angebotsobligo#(65)#isrein/screen.OWVK.ANO#3.15.5, 25B.1##
+K#(0)#(2)#100002##0#0##1
+K#0#(1)#
+K#owvk/ANOOBLEVK.ME#####
+K#owvk/ANOOBLEVK.BKOPF####owvk/ANOOBLEVK.TAB##
+K#owvk#(3)#3:1.2.21#(116)#(98)###0#0#
+K#is/VERBOTEN##is/VERBOTEN######
+Z#0#itgrust##0####(0)######0#0#0#0##0##
+Z#0#itgruppe##0####(0)######0#2#0#0##0##
+Z#0#itgrbez##0####(0)######0#2#0#0##0##
+Z#0#itsn##0####(0)######0#0#0#0##0##
+Z#0#itid##0####(0)######0#2#0#0##0##
+Z#0#itdnr##0####(0)######0#0#0#0##0##
+Z#0#itdbez##0####(0)######0#2#0#0##0##
+Z#0#itschemaversion##0####(0)######0#0#0#0##0##
+Z#0#itobjgruppe##0####(0)######0#0#0#0##0##
+Z#0#itobjgrbez##0####(0)######0#2#0#0##0##
+Z#0#itobjdnr##0####(0)######0#0#0#0##0##
+Z#0#itobjdbez##0####(0)######0#2#0#0##0##
+Z#0#itobjinzeile##0####(0)######0#0#0#0##0##
+Z#0#itozeilen##0####(0)######0#0#0#0##0##
+Z#0#itdateiarchivieren##0####(0)######0#0#0#0##0##
+Z#0#itbudruck##0####(1)######0#0#0#0##0##
+Z#0#itbudruck2##0####(1)######0#0#0#0##0##
+Z#0#itbuinfosys##0####(1)######1#0#0#0##0##
+Z#0#itbuaktion##0####(1)######0#0#0#0##0##
+Z#0#itversionn##0####(0)######0#0#0#0##0##
+Z#0#itmarkiertzn##0####(2)######0#0#0#0##0##
+Z#0#itablagen##0####(0)######0#0#0#0##0##
+Z#0#itablagef##0####(0)######0#2#0#0##0##
+Z#0#itnum65##0####(0)######0#0#0#0##0##
+Z#0#itnummer##0####(0)######0#2#0#0##0##
+Z#0#itnummerb##0####(0)######0#2#0#0##0##
+Z#0#itsuch65##0####(0)######0#0#0#0##0##
+Z#0#itsuch##0####(0)######0#2#0#0##0##
+Z#0#itsuchb##0####(0)######0#2#0#0##0##
+Z#0#iearb##0####(0)######0#0#0#0##0##
+Z#0#ierangarb##0####(0)######0#0#0#0##0##
+Z#0#iedatname##0####(0)######0#0#0#0##0##
+Z#0#iedn##0####(0)######0#2#0#0##0##
+Z#0#iedatnr##0####(0)######0#2#0#0##0##
+Z#0#iegrp##0####(0)######0#0#0#0##0##
+Z#0#iegrliste##0####(0)######0#0#0#0##0##
+Z#0#iegrtxt##0####(0)######0#0#0#0##0##
+Z#0#iegrausw##0####(1)######0#0#0#0##0##
+Z#0#iebkopf##0####(1)######0#0#0#0##0##
+Z#0#iebfuss##0####(1)######0#0#0#0##0##
+Z#0#iegrkopf##0####(1)######0#0#0#0##0##
+Z#0#iegrfuss##0####(1)######0#0#0#0##0##
+Z#0#ietab##0####(1)######0#0#0#0##0##
+Z#0#iebtyp##0####(0)######0#0#0#0##0##
+Z#0#ieatyp##0####(0)######0#0#0#0##0##
+Z#0#ieageraet##0####(0)######0#0#0#0##0##
+Z#0#ieaparam##0####(0)######0#0#0#0##0##
+Z#0#iemaxlines##0####(0)######0#0#0#0##0##
+Z#0#ieanzstufen##0####(0)######0#0#0#0##0##
+Z#0#ietreeview##0####(0)######0#0#0#0##0##
+Z#0#ieabbrfrage##0####(0)######0#0#0#0##0##
+Z#0#iemaskennr##0####(0)######0#0#0#0##0##
+Z#0#ismenuetitel##0####(0)######0#0#0#0##0##
+Z#0#ismenuevorauswahl##0####(0)######0#0#0#0##0##
+Z#0#ismenuesofort##0####(0)######0#0#0#0##0##
+Z#0#ismenueokay##0####(1)######0#0#0#0##0##
+Z#0#ismenueabbruch##0####(1)######0#0#0#0##0##
+Z#0#iskmenueendeaktion##0####(0)######0#0#0#0##0##
+Z#0#isabbrfragetxt##0####(1)######0#0#0#0##0##
+Z#0#isisref##0####(0)######0#0#0#0##0##
+Z#0#isselect##0####(3)######0#0#0#0##0##
+Z#0#isauswahl##0####(0)######0#0#0#0##0##
+Z#0#isstufe##0####(0)######0#0#0#0##0##
+Z#0#isbstart##0####(1)#owvk/ANOOBLEVK.BSTART.BV#is/HOL.LISTE.EVPOS####1#0#0#0##0##
+Z#0#isstartzeit##0####(0)######0#0#0#0##0##
+Z#1#isbselect#BU3#0#Selektionsleiste#(65)#(65)#(1)##owvk/ANOOBLEVK.EV####1#1#0#0##0##
+Z#1#isbelegvon#GL9#0#Beleg von#(65)#(65)#(2)#####owvk/ANOOBLEVK.EV#1#1#1#0#Angebot#1##
+Z#1#isbelegbis#GL9#0#Beleg bis#(65)#(65)#(2)#####owvk/ANOOBLEVK.EV#1#1#1#0##1##
+Z#1#isselektion#B#0#Selektionsleiste aktiv#(65)#(65)#(3)######1#1#1#0#Aktiv#1##
+Z#1#iskotyp#A5#0#Kopftyp#(65)#(65)#(0)######0#1#0#0##0##
+Z#1#iskotyps#AS5#0#Kopftyp#(65)#(65)#(0)######0#3#0#0##0##
+Z#1#isaart#A48#0#Ablageart#(65)#(65)#(0)######0#1#0#0##0##
+Z#1#isaarts#AS48#0#Ablageart#(65)#(65)#(0)######0#3#0#0##0##
+Z#1#ismitalternativpos#B#0#Mit Alternativpositionen zeigen#(65)#(65)#(2)#####owvk/ANOOBLEVK.EV#1#1#1#0#Alternativpositionen#1##
+Z#1#isartikel#P2:1.4.5#0#Artikel#(65)#(65)#(2)#####owvk/ANOOBLEVK.EV#1#1#1#0##1##
+Z#1#isartikelsucherw#PT2:1.4.5#0#Bezeichnung des Artikels#(65)#(65)#(0)######1#3#0#0#Bezeichnung#1##
+Z#1#iskkuli#P0:1.2.6.7#0#Kunde#(65)#(65)#(2)#####owvk/ANOOBLEVK.EV#1#1#1#0##1##
+Z#1#iskkulisucherw#PT0:1.2.6.7#0#Bezeichnung des Kunden#(65)#(65)#(0)######1#3#0#0#Bezeichnung#1##
+Z#1#iswvdat#B#0#Sortiert nach Wiedervorlage#(65)#(65)#(2)#####owvk/ANOOBLEVK.EV#1#1#1#0##1##
+Z#1#iskkuli2#P0:1.6#0#Rechnungsempfänger#(65)#(65)#(2)#####owvk/ANOOBLEVK.EV#1#1#1#0##1##
+Z#1#iskkuli2sucherw#PT0:1.6#0#Bezeichnung des Rechnungsempfängers#(65)#(65)#(0)######1#3#0#0#Bezeichnung#1##
+Z#1#iskvertret#P0:1#0#Vertreter#(65)#(65)#(2)#####owvk/ANOOBLEVK.EV#1#1#1#0##1##
+Z#1#iskvertretsucherw#PT0:1#0#Bezeichnung des Vertreters#(65)#(65)#(0)######1#3#0#0#Bezeichnung#1##
+Z#1#iskzeich#GL15#0#Sachbearbeiter intern#(65)#(65)#(2)#####owvk/ANOOBLEVK.EV#1#1#1#0##1##
+Z#1#isprojekt#PS86:1#0#Projekt#(65)#(65)#(2)#####owvk/ANOOBLEVK.EV#1#1#0#0##1##
+Z#1#isprojektsucherw#PT86:1#0#Projekttitel#(65)#(65)#(0)######1#3#0#0#Titel#1##
+Z#1#isvorgartaz#AZK20341#0#Vorgangsart#(65)#(65)#(0)######0#1#0#0##0##
+Z#1#issumme#R13.2#0#Gesamtsumme#(65)#(65)#(0)######1#1#1#0#Gesamtsumme:#1##
+Z#1#issummealtpos#R13.2#0#Gesamtsumme alternativer Positionen#(65)#(65)#(0)######1#1#1#0##1##
+Z#1#isauswaehr#PS94:1#0#Ausgabewährung#(65)#(65)#(2)#####owvk/ANOOBLEVK.EV#1#1#1#0##1##
+Z#1#isausnkst#IP1#0#Nachkommastellen der Ausgabewährung#(65)#(65)#(0)######0#1#0#0##0##
+Z#1#isvorgwaehr#PS94:1#0#Letzte Vorgangswährung#(65)#(65)#(0)######0#1#0#0##0##
+Z#1#isvorgrate#RP7.6#0#Kurs zu letzter Vorgangswährung#(65)#(65)#(0)######0#1#0#0##0##
+Z#1#ismaskplan#GL20#0#Maske Plankarte#(65)#(65)#(0)######0#1#0#0##0##
+Z#1#isano#B#0#Kennzeichnung des Angebotsobligos#(65)#(65)#(0)######0#1#0#0##0##
+Z#1#israu#B#0#Kennzeichnung für Rahmenauftragsobligos#(65)#(65)#(0)######0#1#0#0##0##
+Z#1#isanafo#B#0#Kennzeichnung für Anfrage-/Angebotsobligos#(65)#(65)#(0)######0#1#0#0##0##
+Z#1#isaubeo#B#0#Kennzeichnung für Auftrags-/Bestellobligos#(65)#(65)#(0)######0#1#0#0##0##
+Z#1#islio#B#0#Kennzeichnung für Lieferobligos#(65)#(65)#(0)######0#1#0#0##0##
+Z#1#isreo#B#0#Kennzeichnung für Rechnungsobligos#(65)#(65)#(0)######0#1#0#0##0##
+Z#1#isinkl#B#0#Aktuelle Position ist inklusive ungebuchter LS/RE#(65)#(65)#(0)######0#1#0#0##0##
+Z#1#isykinclfopdmy#I1#0#Dummy für Include-FOP, NICHT LOESCHEN!!!!#(65)#(65)#(2)#####owvk/ANO.YINCLFOP#0#1#0#0##0##
+Z#1#isybetreuer#P11:1#0#Betreuer#(65)#(65)#(2)######0#1#0#0##0##
+
+Z#0#ittabnr##1####(0)######0#0#0#0##0##
+Z#0#itzid##1####(0)######0#0#0#0##0##
+Z#0#itzn##1####(0)######0#0#0#0##0##
+Z#0#itbudruck##1####(1)######0#0#0#0##0##
+Z#0#itbudruck2##1####(1)######0#0#0#0##0##
+Z#0#itbuinfosys##1####(1)######1#0#0#0##0##
+Z#0#itbuaktion##1####(1)######0#0#0#0##0##
+Z#0#itmarkiert##1####(1)######0#0#0#0##0##
+Z#0#itmarkierung##1####(1)######0#0#0#0##0##
+Z#0#istbaumstufe##1####(0)######0#0#0#0##0##
+Z#0#istbaumstat##1####(0)######0#0#0#0##0##
+Z#0#istbaumaufzu##1####(1)######0#0#0#0##0##
+Z#0#istbaumtext##1####(0)######0#0#0#0##0##
+Z#0#istbauminfo##1####(0)######0#0#0#0##0##
+Z#0#istbaumicon##1####(0)######0#0#0#0##0##
+Z#0#istbaumiconz##1####(0)######0#2#0#0##0##
+Z#0#istmenuemoeglich##1####(0)######0#0#0#0##0##
+Z#0#istmenuean##1####(0)######0#0#0#0##0##
+Z#0#istmenueendeaktion##1####(0)######0#0#0#0##0##
+Z#2#iskopf#P3:1#1#Beleg#(65)#(65)#(0)######1#1#1#0#Angebot#1##
+Z#2#istkuli#P0:1.2.6.7#1#Kunde#(65)#(65)#(0)######1#1#1#0##1##
+Z#2#istkuliname#PT0:1.2.6.7#1#Kundenname#(65)#(65)#(0)######1#3#1#0##1##
+Z#2#istkuli2#P0:1.6#1#Rechnungsempf�nger#(65)#(65)#(0)######1#1#1#0##1##
+Z#2#istkuliname2#PT0:1.6#1#Rechnungsempf�ngername#(65)#(65)#(0)######1#3#0#0##1##
+Z#2#istvertret#P0:1#1#Vertreter#(65)#(65)#(0)######1#1#1#0##1##
+Z#2#istvertretname#PT0:1#1#Vertretername#(65)#(65)#(0)######1#3#0#0##1##
+Z#2#isvom#GD#1#Belegdatum#(65)#(65)#(0)######1#1#1#0#Datum#1##
+Z#2#ispnum#NT6#1#Position#(65)#(65)#(0)######1#1#1#0##1##
+Z#2#istprojekt#PS86:1#1#Projekt#(65)#(65)#(0)######1#1#0#0##1##
+Z#2#istprojektsucherw#PT86:1#1#Projekttitel#(65)#(65)#(0)######1#3#0#0#Titel#1##
+Z#2#isalternativpos#B#1#Alternativposition#(65)#(65)#(0)######1#1#1#0#Alt-Pos#1##
+Z#2#isart#P2#1#Artikel#(65)#(65)#(0)######1#1#1#15##1##
+Z#2#istname#PT2#1#Bezeichnung#(65)#(65)#(0)######1#3#0#0##1##
+Z#2#ismge#ARTR51000#1#Menge#(65)#(65)#(0)######1#1#1#0##1##
+Z#2#islimge#ARTR51000#1#Offene Liefermenge#(65)#(65)#(0)######0#1#0#0##1##
+Z#2#isremge#ARTR51000#1#Offene Rechnungsmenge#(65)#(65)#(0)######0#1#0#0##1##
+Z#2#isvhe#TAZ1#1#Handelseinheit#(65)#(65)#(0)######1#1#1#0#Einheit#1##
+Z#2#ispreis#ARTR53000#1#Preis#(65)#(65)#(0)######1#1#0#0##1##
+Z#2#istauswaeh#PS94:1#1#Ausgabew�hrung der Position#(65)#(65)#(0)######1#1#0#0##1##
+Z#2#island#PS94:1#1#W�hrung#(65)#(65)#(0)######1#1#0#0##1##
+Z#2#isproz#MD3.2#1#Rabatt#(65)#(65)#(0)######1#1#0#0##1##
+Z#2#ispwert#ARTR52000#1#Positionswert#(65)#(65)#(0)######1#1#0#0##1##
+Z#2#isnwert#ARTR52000#1#Wert inkl. Umlagen#(65)#(65)#(0)######1#1#1#0##1##
+Z#2#issumnwert#ARTR52000#1#Summe je Vorgang#(65)#(65)#(0)######0#1#0#0#Summe Angebot:#1##
+Z#2#isvpe#TAZ1#1#Preiseinheit#(65)#(65)#(0)######1#1#0#0##1##
+Z#2#ispehe#MPD5.4#1#Umrechnung Preiseinheit/Handelseinheit#(65)#(65)#(0)######0#1#0#0##0##
+Z#2#istterm#GD#1#Liefertermin#(65)#(65)#(0)######1#1#1#0##1##
+Z#2#istwvdat#GD#1#Wiedervorlagedatum#(65)#(65)#(0)######1#1#1#0##1##
+Z#2#istzeich#GL15#1#Sachbearbeiter intern#(65)#(65)#(0)######1#1#0#0##1##
+Z#2#isevpos#P3:2#1#Belegposition#(65)#(65)#(0)######0#1#0#0##0##
+Z#2#islgruppe#P39:2#1#Lagergruppe#(65)#(65)#(0)######1#1#0#0##1##
+Z#2#islgruppesucherw#PT39:2#1#Bezeichnung der Lagergruppe#(65)#(65)#(0)######1#3#0#0##1##
+Z#2#isbfolge#BU8#1#Button zum Anlegen des Auftrags#(65)#(65)#(1)#owvk/ANOOBLEVK.EV#owvk/ANOOBLEVK.EV####1#1#0#0#AU#0##
+Z#2#isbplan#BU3#1#Button zum Aufrufen der Plankarte#(65)#(65)#(1)##owvk/ANOOBLEVK.EV####1#1#0#0#PK#0##
+Z#2#isplatz#P38:1#1#Lagerplatz#(65)#(65)#(0)######0#1#0#0##1##
+Z#2#isikopf#I3#1#ändert sich der Kopf?#(65)#(65)#(0)######0#1#0#0##1##
+Z#2#isytbetreuer#P11:1#1#Betreuer#(65)#(65)#(0)######0#1#0#0##1##
+

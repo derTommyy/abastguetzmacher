@@ -1,0 +1,4 @@
+database master Teil {
+	number 2
+	classname Part
+}
