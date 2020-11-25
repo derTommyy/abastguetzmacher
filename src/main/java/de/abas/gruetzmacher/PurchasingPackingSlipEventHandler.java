@@ -18,6 +18,6 @@ public class PurchasingPackingSlipEventHandler {
 	@ButtonEventHandler(field="yzhmzggetOpenItems", type = ButtonEventType.AFTER)
 	public void yzhmzggetOpenItemsButtonAfter(ButtonEvent event, ScreenControl screenControl, DbContext ctx, PackingSlipEditor head) throws EventException {
 		// TODO Auto-generated method stub
-		
+		//
 	}
 }
